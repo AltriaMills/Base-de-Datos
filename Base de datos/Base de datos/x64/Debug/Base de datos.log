@@ -1,0 +1,3 @@
+﻿  ArregloNodos.cpp
+C:\Users\marif\OneDrive\Documentos\Base de datos\Base de datos\ArregloNodos.cpp(27,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Base de datos.vcxproj -> C:\Users\marif\OneDrive\Documentos\Base de datos\x64\Debug\Base de datos.exe
